@@ -1,6 +1,6 @@
 # Planning
 
-Foobar is a java program which solves the following fictional problem using dynamic programming.
+Planning is a java program which solves the following fictional problem using dynamic programming.
 
 ## Problem Statement
 
